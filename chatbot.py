@@ -16,4 +16,4 @@ def generate_chatbot_response(logs, question):
         return f"Average response time is {avg_time:.2f} seconds"
 
     else:
-        return "I can help with questions about status or response timedsfj."
+        return "I can help with questions about status or response time."
